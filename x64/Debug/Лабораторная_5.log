@@ -1,0 +1,15 @@
+﻿  main.cpp
+  Mesh.cpp
+  Model.cpp
+  Shader.cpp
+  Создание кода...
+C:\Users\ролдаввапоьл\source\repos\Потапьева_ЭВМб-24-1\Лабораторная_5\main.cpp(1,10): error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+C:\Users\ролдаввапоьл\source\repos\Потапьева_ЭВМб-24-1\Лабораторная_5\Mesh.h(4,10): error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  (компиляция исходного файла "Mesh.cpp")
+  
+C:\Users\ролдаввапоьл\source\repos\Потапьева_ЭВМб-24-1\Лабораторная_5\Model.h(4,10): error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  (компиляция исходного файла "Model.cpp")
+  
+C:\Users\ролдаввапоьл\source\repos\Потапьева_ЭВМб-24-1\Лабораторная_5\Shader.h(2,10): error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  (компиляция исходного файла "Shader.cpp")
+  
